@@ -8,9 +8,9 @@ public class zadani27 {
 
         restauracja1 = "burgery u Jarka";
         restauracja2 = "Pizzeria ";
-        restauracja3 = "kawiarnia na rogu";
+        restauracja3 = "kawiarnia na rogu ulicy";
         restauracja4 = "kuchnia u szefa";
-        restauracja5 = "wloskie specjaly";
+        restauracja5 = "wloskie specjalnosci";
         char weganin, wegetarianin, bezglutenowiec;
 
         System.out.println(" czy jestes wegetarianinem? Tak T czy Nie N?");
